@@ -6,3 +6,7 @@ git rm cached
 git restore
 git log
 vim 
+git log --oneline
+git log --oneline --pretty
+git config --golbal user.name ""
+git config --global user.email ""
